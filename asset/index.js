@@ -1,0 +1,1 @@
+import{R as e,a as t}from"./vendor.cd7509fb.js";function n(){return e.createElement("main",null,e.createElement("h2",null," ","Habib"," "),"React⚛️ + Vite⚡ + Replit🌀")}t.render(e.createElement(e.StrictMode,null,e.createElement(n,null)),document.getElementById("root"));
